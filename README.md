@@ -13,4 +13,4 @@
 <h2>Pregnant Care</h2>
 <p>Myanmar Pregnant Women Helper App. I developed it with Team-W2MAS and competed in ACKF 2019 (App Contest By KDDI). And we won third prize.You can download and test <a href="https://yadi.sk/d/xt7AzOhET7VEUw">Here.</a></p>
 
-<img src="https://github.com/aunthtoo/Android-App-Collection-By-Me/blob/master/ss/pcare_01.jpg" width="400"/><img src="https://github.com/aunthtoo/Android-App-Collection-By-Me/blob/master/ss/pcare_02.jpg" width="400"/>
+<img src="https://github.com/aunthtoo/Android-App-Collection-By-Me/blob/master/ss/pcare_01.jpg" width="400"/><img src="https://github.com/aunthtoo/Android-App-Collection-By-Me/blob/master/ss/pcare_02.jpg" width="400" style="margin-left:30px"/>
