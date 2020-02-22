@@ -1,2 +1,4 @@
-# Some Android Apps Developed by me
-This repo contains android aplications developed by me. But some app was developed with my team!
+#Kids' Maths
+<p>Easy Maths Game for Kids. Grand Winner App of Samsung Tech Institute 2016.</p>
+
+![](https://github.com/aunthtoo/Android-App-Collection-By-Me/blob/master/ss/km_01.jpg)
